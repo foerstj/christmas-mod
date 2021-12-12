@@ -1,0 +1,36 @@
+besiegedtown_01, castleehb_06, gom_victory: Christmas Theme 1, Alexander Nakarada
+besiegedtown_02, swanny: Christmas Theme 2, Alexander Nakarada
+templeruins_04: Hey Tomtegubbar, Marcus Österdahls kör & orkester
+besiegedtown_03, nonataya: Christmas Theme 3, Alexander Nakarada
+castleehb_01, path2crypts_03: Herbei O ihr Gläubigen, Andere Zeiten Adventssingen
+castleehb_02, path2stonebridge_01: Zu Bethlehem geboren, Andere Zeiten Adventssingen
+path2crypts_02: Fröhliche Weihnacht überall, Andere Zeiten Adventssingen
+path2crypts_04, subriver_03: Ihr Kinderlein kommet, Andere Zeiten Adventssingen
+gom_battle: We Wish You a Merry Christmas, Alexander Nakarada
+path2crypts_01: Jingle Bells, Andere Zeiten Adventssingen
+castleehb_05, dwarvenmines_07: Joy To The World, Alexander Nakarada
+castledungeon_03, crypts_04, subriver_05: Deck the Halls, Alexander Nakarada
+templeruins_01: Nu är de Jul igen, Marcus Österdahls kör & orkester
+farmhouse_02, path2stonebridge_02: Kling Glöckchen, Andere Zeiten Adventssingen
+templeruins_03: Bjällerklang, Marcus Österdahls kör & orkester
+templeruins_05: Stilla Natt, Marcus Österdahls kör & orkester
+maintheme: Silent Night, Alexander Nakarada
+desertcanyons_01, king_intro: Carol of the Bells (Rock Version), Alexander Nakarada
+frontend: Hej Mitt Vinterland, Agnetha & Linda
+glacern_04: När Det Lider Mot Jul, ?
+furyden_02, hallofskulls, lavacaverns_01: God Rest Ye Merry Gentlement, Alexander Nakarada
+arcticcaverns_05: "Jul, Jul, Strålande Jul", ?
+besiegedtown_04: Gläns över Sjö och Strand, Ivan Renlidens orkester
+maintheme_03: Silent Night (Unholy Night), Alexander Nakarada
+desertcanyons_03, fortkroth_02: När Juldagsmorgon Glimmar, ?
+darkforest_01: We Three Celtic Kings, Alexander Nakarada
+arcticcaverns_06, castleehb_03: Twelve Days of Christmas, Alexander Nakarada
+dragonlair_02, dwarvenmines_09, lavacaverns_02: Jingle Bells, Alexander Nakarada
+templeruins_02: Santa Lucia, Marcus Österdahls kör & orkester
+desertcanyons_02: Carol of the Bells (Celtic Version), Alexander Nakarada
+darkforest_03: God Rest Ye Merry Celtishmen, Alexander Nakarada
+d_k_theme: Tomtarnas Julnatt, Lollipops
+castleehb_04: Santa Claus is Not Coming to Town, Alexander Nakarada
+desertcanyons_05: Carol of the Bells (Metal Version), Alexander Nakarada
+darkforest_02: Coventry Carol, Alexander Nakarada
+credits: Potpurri Danslekar, Marcus Österdahls kör & orkester
