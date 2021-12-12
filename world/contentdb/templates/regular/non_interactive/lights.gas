@@ -912,70 +912,12 @@
 		}
 	}
 }
-[t:template,n:lamp_ice_02]
-{
-	category_name = "lighting";
-	doc = "lamppost_bracketed_metal_ice";
-	specializes = non_interactive;
-	[aspect]
-	{
-		lodfi_lower = 0;
-		lodfi_upper = 0;
-		model = m_i_glb_lamp-post-02;
-		scale_base = 2;
-		[textures]
-		{
-			0 = b_i_ice_lamp-posts;
-		}
-	}
-	[common]
-	{
-		screen_name = "Lamp";
-	}
-	[common]
-	{
-		[template_triggers]
-		{
-			[*]
-			{
-				action* = call_sfx_script("lamp_glow_orange3");
-				condition* = receive_world_message("WE_ENTERED_WORLD");
-			}
-		}
-	}
-}
-[t:template,n:lamp_ice_03]
-{
-	category_name = "lighting";
-	doc = "lamppost_metal_ice";
-	specializes = non_interactive;
-	[aspect]
-	{
-		lodfi_lower = 0;
-		lodfi_upper = 0;
-		model = m_i_glb_lamp-post-03;
-		scale_base = 2;
-		[textures]
-		{
-			0 = b_i_ice_lamp-posts;
-		}
-	}
-	[common]
-	{
-		screen_name = "Lamp";
-	}
-	[common]
-	{
-		[template_triggers]
-		{
-			[*]
-			{
-				action* = call_sfx_script("lamp_glow_orange2");
-				condition* = receive_world_message("WE_ENTERED_WORLD");
-			}
-		}
-	}
-}
+
+// EDITED
+[t:template,n:lamp_ice_02] { specializes = tree_ice_xmas_lg; }
+[t:template,n:lamp_ice_03] { specializes = tree_ice_xmas; }
+// /EDITED
+
 [t:template,n:lightstand_lightable]
 {
 	category_name = "lighting";
