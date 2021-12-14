@@ -1,7 +1,7 @@
 besiegedtown_01, castleehb_06, gom_victory: Christmas Theme 1, Alexander Nakarada
-besiegedtown_02, swanny: Christmas Theme 2, Alexander Nakarada
+besiegedtown_02, glacern_01, swanny: Christmas Theme 2, Alexander Nakarada
 templeruins_04: Hey Tomtegubbar, Marcus Österdahls kör & orkester
-besiegedtown_03, nonataya: Christmas Theme 3, Alexander Nakarada
+besiegedtown_03, glacern_06, nonataya: Christmas Theme 3, Alexander Nakarada
 castleehb_01, path2crypts_03: Herbei O ihr Gläubigen, Andere Zeiten Adventssingen
 castleehb_02, path2stonebridge_01: Zu Bethlehem geboren, Andere Zeiten Adventssingen
 path2crypts_02: Fröhliche Weihnacht überall, Andere Zeiten Adventssingen
