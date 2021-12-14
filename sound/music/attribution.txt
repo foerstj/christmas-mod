@@ -21,7 +21,7 @@ furyden_02, hallofskulls, lavacaverns_01: God Rest Ye Merry Gentlement, Alexande
 arcticcaverns_05: "Jul, Jul, Strålande Jul", ?
 besiegedtown_04, arhok: Gläns över Sjö och Strand, Ivan Renlidens orkester
 maintheme_03: Silent Night (Unholy Night), Alexander Nakarada
-desertcanyons_03, fortkroth_02: När Juldagsmorgon Glimmar, ?
+desertcanyons_03, fortkroth_02, darkswamp_03: När Juldagsmorgon Glimmar, ?
 darkforest_01: We Three Celtic Kings, Alexander Nakarada
 arcticcaverns_06, castleehb_03: Twelve Days of Christmas, Alexander Nakarada
 dragonlair_02, dwarvenmines_09, lavacaverns_02: Jingle Bells, Alexander Nakarada
