@@ -1,9 +1,13 @@
 # christmas-mod
 A Christmas mod for Dungeon Siege.
 
-This mod adds Christmas trees in Fallraen and Glacern (and around the Glacern elevator). Also it replaces some of the DS music tracks with Christmas music.
+This mod adds Christmas trees in Fallraen and Glacern (and around the Glacern elevator), as well as Arhok and Illicor. Also it replaces some of the DS music tracks with Christmas music. Oh yeah and Mountain Man is Santa.
 
 This mod is designed to work together with Wintermod. If you use both mods, Christmas trees will also appear at the Farmhouse, in Stonebridge, and at Castle Ehb among other places; as well as corresponding places on the Utraean Peninsula multiplayer map.
+
+## Compatibility
+
+Should be fairly compatible but wasn't tested.
 
 ## Attribution
 Music attribution: See sound/music/attribution.txt\
