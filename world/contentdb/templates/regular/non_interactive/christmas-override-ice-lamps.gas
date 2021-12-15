@@ -1,0 +1,3 @@
+[t:template,n:lamp_ice_01] { specializes = tree_ice_xmas_lg; }
+[t:template,n:lamp_ice_02] { specializes = tree_ice_xmas_lg; }
+[t:template,n:lamp_ice_03] { specializes = tree_ice_xmas; }
