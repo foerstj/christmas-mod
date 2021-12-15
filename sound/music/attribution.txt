@@ -16,7 +16,7 @@ templeruins_03: Bjällerklang, Marcus Österdahls kör & orkester
 templeruins_05: Stilla Natt, Marcus Österdahls kör & orkester
 maintheme: Silent Night, Alexander Nakarada
 desertcanyons_01, king_intro: Carol of the Bells (Rock Version), Alexander Nakarada
-glacern_04: När Det Lider Mot Jul, ?
+glacern_04, the_ultreans: När Det Lider Mot Jul, ?
 furyden_02, hallofskulls, lavacaverns_01: God Rest Ye Merry Gentlement, Alexander Nakarada
 arcticcaverns_05: "Jul, Jul, Strålande Jul", ?
 besiegedtown_04, arhok: Gläns över Sjö och Strand, Ivan Renlidens orkester
