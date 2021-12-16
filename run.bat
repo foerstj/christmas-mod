@@ -10,17 +10,8 @@ set ds=.
 :: path of TankCreator
 set tc=..\TankCreator
 
-:: Compile main resource file
-rmdir /S /Q "%tmp%\Bits"
-robocopy "%doc_dsloa%\Bits\art" "%tmp%\Bits\art" /E
-robocopy "%doc_dsloa%\Bits\world\contentdb" "%tmp%\Bits\world\contentdb" /E
-robocopy "%doc_dsloa%\Bits\world\global" "%tmp%\Bits\world\global" /E
-robocopy "%doc_dsloa%\Bits\sound" "%tmp%\Bits\sound" /E
-%tc%\RTC.exe -source "%tmp%\Bits" -out "%ds%\Resources\%mod%.dsres" -copyright "CC-BY-SA 2021" -title "Christmas Mod" -author "Johannes Förstner"
-if %errorlevel% neq 0 pause
-
-:: Cleanup
-rmdir /S /Q "%tmp%\Bits"
+:: build
+call "%doc_dsloa%"\Bits\build.bat
 
 ::pause
 
