@@ -13,7 +13,12 @@ This mod is designed to work together with Wintermod. If you use both mods, Chri
 Should be fairly compatible but wasn't tested.
 
 ## Attribution
-Music attribution: See sound/music/attribution.txt\
+Music:
+- Simple instrumentals: Andere Zeiten Adventssingen
+- Advanced instrumentals: Alexander Nakarada
+- Swedish vocal music: Marcus Österdahls kör & orkester, Ivan Renlidens orkester, Lollipops, and some unknown
+
+For details see: sound/music/attribution.txt\
 Please don't sue me, this is just a private hobby project for an all-but-dead game <3
 
 Santa texture: by ghastley
