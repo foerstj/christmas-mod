@@ -11,7 +11,7 @@ set ds=.
 set tc=..\TankCreator
 
 :: build
-call "%doc_dsloa%"\Bits\build.bat
+call "%doc_dsloa%"\Bits\build.bat %*
 
 ::pause
 
@@ -19,4 +19,4 @@ call "%doc_dsloa%"\Bits\build.bat
 "%ds%\DSLOA.exe" nointro=true map=map_world
 
 :: Cleanup resources so as not to confuse Siege Editor
-del "%ds%\Resources\%mod%.dsres"
+call "%doc_dsloa%"\Bits\cleanup.bat %*
