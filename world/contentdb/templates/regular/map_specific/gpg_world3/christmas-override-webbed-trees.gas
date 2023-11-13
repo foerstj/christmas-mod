@@ -1,0 +1,7 @@
+// Overriding templates from regular/map_specific/gpg_world3/gpg_w3_objects.gas (Yesterhaven)
+[t:template,n:gpg_tree_glb_pine_dead_01] { specializes = tree_grs_xmas_lg; aspect:scale_base = 0.75; }
+[t:template,n:gpg_tree_glb_pine_dead_02] { specializes = tree_grs_xmas_lg; aspect:scale_base = 0.75; }
+[t:template,n:gpg_tree_glb_pine_dead_03] { specializes = tree_grs_xmas_lg; aspect:scale_base = 0.75; }
+[t:template,n:gpg_tree_glb_pine_dead_04] { specializes = tree_grs_xmas_lg; aspect:scale_base = 0.75; }
+[t:template,n:gpg_tree_glb_pine_dead_05] { specializes = tree_grs_xmas_lg; aspect:scale_base = 0.75; }
+[t:template,n:gpg_tree_glb_pine_dead_06] { specializes = tree_grs_xmas_lg; aspect:scale_base = 0.75; }
