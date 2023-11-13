@@ -10,14 +10,19 @@ set ds=.
 :: path of TankCreator
 set tc=..\TankCreator
 
-:: Compile main resource file
-rmdir /S /Q "%tmp%\Bits"
-robocopy "%doc_dsloa%\Bits\art" "%tmp%\Bits\art" /E
-robocopy "%doc_dsloa%\Bits\world\contentdb" "%tmp%\Bits\world\contentdb" /E
-robocopy "%doc_dsloa%\Bits\world\global" "%tmp%\Bits\world\global" /E
-robocopy "%doc_dsloa%\Bits\sound" "%tmp%\Bits\sound" /E
-%tc%\RTC.exe -source "%tmp%\Bits" -out "%ds%\DSLOA\%mod%.dsres" -copyright "CC-BY-SA 2023" -title "Christmas Mod" -author "Johannes Förstner"
-if %errorlevel% neq 0 pause
+call "%doc_dsloa%"\Bits\cleanup.bat %*
 
-:: Cleanup
-rmdir /S /Q "%tmp%\Bits"
+:: param
+set mode=%1
+echo %mode%
+
+if "%mode%"=="light" (
+  call "%doc_dsloa%\Bits\build-nomusic.bat"
+)
+if "%mode%"=="" (
+  call "%doc_dsloa%\Bits\build-withmusic.bat"
+)
+if "%mode%"=="release" (
+  call "%doc_dsloa%\Bits\build-withmusic.bat"
+  call "%doc_dsloa%\Bits\build-nomusic.bat"
+)

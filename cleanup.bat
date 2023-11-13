@@ -8,3 +8,4 @@ set ds=.
 
 :: Cleanup resources so as not to confuse Siege Editor
 del "%ds%\DSLOA\%mod%.dsres"
+del "%ds%\DSLOA\%mod%-nomusic.dsres"
