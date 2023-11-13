@@ -9,7 +9,6 @@ Music is mostly instrumental. Vocals are in Swedish.
 This mod is designed to work together with Wintermod. If you use both mods, Christmas trees will also appear at the Farmhouse, in Stonebridge, and at Castle Ehb among other places; as well as corresponding places on the Utraean Peninsula multiplayer map.
 
 ## Compatibility
-
 Should be fairly compatible but wasn't tested.
 
 ## Attribution
