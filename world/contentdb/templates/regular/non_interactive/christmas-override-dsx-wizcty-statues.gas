@@ -1,2 +1,3 @@
+// Overriding templates from regular/non_interactive/dsx_blocking.gas (LoA)
 [t:template,n:dsx_wizcty_statue_bob] { specializes = tree_grs_xmas; }
 [t:template,n:dsx_wizcty_statue_wobble] { specializes = tree_grs_xmas_lg; }
