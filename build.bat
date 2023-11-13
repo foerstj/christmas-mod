@@ -16,7 +16,7 @@ robocopy "%doc_dsloa%\Bits\art" "%tmp%\Bits\art" /E
 robocopy "%doc_dsloa%\Bits\world\contentdb" "%tmp%\Bits\world\contentdb" /E
 robocopy "%doc_dsloa%\Bits\world\global" "%tmp%\Bits\world\global" /E
 robocopy "%doc_dsloa%\Bits\sound" "%tmp%\Bits\sound" /E
-%tc%\RTC.exe -source "%tmp%\Bits" -out "%ds%\DSLOA\%mod%.dsres" -copyright "CC-BY-SA 2021" -title "Christmas Mod" -author "Johannes Förstner"
+%tc%\RTC.exe -source "%tmp%\Bits" -out "%ds%\DSLOA\%mod%.dsres" -copyright "CC-BY-SA 2023" -title "Christmas Mod" -author "Johannes Förstner"
 if %errorlevel% neq 0 pause
 
 :: Cleanup
