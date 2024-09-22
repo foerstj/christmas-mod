@@ -15,7 +15,7 @@ Advanced instrumentals: Alexander Nakarada
 - castledungeon_03, crypts_04, subriver_05: Deck the Halls
 - maintheme: Silent Night
 - desertcanyons_01, king_intro: Carol of the Bells (Rock Version)
-- furyden_02, hallofskulls, lavacaverns_01: God Rest Ye Merry Gentlement
+- furyden_02, hallofskulls, lavacaverns_01: God Rest Ye Merry Gentlemen
 - maintheme_03: Silent Night (Unholy Night)
 - darkforest_01: We Three Celtic Kings
 - arcticcaverns_06, castleehb_03: Twelve Days of Christmas
