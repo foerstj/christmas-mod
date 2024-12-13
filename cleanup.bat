@@ -1,6 +1,3 @@
-:: This script is supposed to be executed from your DS installation folder.
-:: TankCreator is expected to be in a sibling dir.
-
 :: name of mod
 set mod=Christmas
 :: path of DS installation
