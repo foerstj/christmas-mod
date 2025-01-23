@@ -17,7 +17,7 @@ This mod is designed to work together with Wintermod. If you use both mods, Chri
 ## Attribution
 Music:
 - Simple instrumentals: Andere Zeiten Adventssingen
-- Advanced instrumentals: Alexander Nakarada
+- Advanced instrumentals: Alexander Nakarada https://creatorchords.com
 - Swedish vocal music: Marcus Österdahls kör & orkester, Ivan Renlidens orkester, Lollipops, and some unknown
 
 For details see: sound/music/attribution.txt\
