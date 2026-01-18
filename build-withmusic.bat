@@ -1,5 +1,5 @@
 :: name of mod
-set mod=Christmas
+set mod=A Christmas Mod
 :: path of Bits dir
 set bits=%~dp0.
 :: path of DS installation
@@ -7,7 +7,7 @@ set ds=%DungeonSiege%
 :: path of TankCreator
 set tc=%TankCreator%
 
-set copyright=CC-BY-SA 2024
+set copyright=CC-BY-SA 2026
 set title=%mod% Mod
 set author=Johannes Förstner
 

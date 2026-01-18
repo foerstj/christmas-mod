@@ -1,5 +1,5 @@
 :: name of mod
-set mod=Christmas
+set mod=A Christmas Mod
 :: path of DS installation
 set ds=%DungeonSiege%
 
