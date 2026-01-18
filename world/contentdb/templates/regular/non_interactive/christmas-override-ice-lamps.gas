@@ -1,4 +1,4 @@
 // Overriding templates from regular/non_interactive/lights.gas (Vanilla & LoA)
-[t:template,n:lamp_ice_01] { specializes = tree_ice_xmas_lg; }
-[t:template,n:lamp_ice_02] { specializes = tree_ice_xmas_lg; }
-[t:template,n:lamp_ice_03] { specializes = tree_ice_xmas; }
+[t:template,n:lamp_ice_01] { specializes = tree_ice_xmas_lg_base; }
+[t:template,n:lamp_ice_02] { specializes = tree_ice_xmas_lg_base; }
+[t:template,n:lamp_ice_03] { specializes = tree_ice_xmas_base; }
